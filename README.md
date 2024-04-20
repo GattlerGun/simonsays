@@ -1,5 +1,9 @@
 # simonsays
 
+You can forward link: https://gattlergun.github.io/simonsays/
+
+or clone this project and
+
 ## Project setup
 ```
 npm install
